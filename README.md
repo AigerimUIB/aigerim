@@ -1,4 +1,4 @@
-# aigerim
+# aigerim(UIB) Smart technology 21.142
 import 'package:flutter/material.dart';
 
 void main() {
